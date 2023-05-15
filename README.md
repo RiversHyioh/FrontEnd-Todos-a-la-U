@@ -1,4 +1,4 @@
-# TodosalU_Frontend-Basado-en-Proyectos
+# TodosalU_Proyecto
 
 ## Proyecto XYZ
 ¡Bienvenido al repositorio del Proyecto XYZ! Aquí encontrarás toda la información necesaria para comprender, configurar y ejecutar el proyecto en su totalidad, incluyendo el backend y el frontend.
