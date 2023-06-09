@@ -4,4 +4,4 @@
 Proyeto de una Landing Page hecha con HTML, CSS Y JAVASCRIPT PURO
 
 ## Backend
-Ecomerce hecha con HTML, CSS, JAVASCRIPT, PHP, ADMINLTD y Boostrap
+Es una aplicación de live chat, en donde las personas registradas pueden tener conversaciones entre sí.
