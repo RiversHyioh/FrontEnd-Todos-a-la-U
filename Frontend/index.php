@@ -34,7 +34,7 @@
     </header>
     <section class="home" id="home">
         <div class="content">
-            <h1>Aprender do forma Online</h1>
+            <h1>Aprender de forma Online</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti et quod blanditiis libero, qui aut in assumenda minus inventore obcaecati. Asperiores animi possimus, vitae fugit quos quia labore esse natus.</p>
             <a href="#"><button>descubre más</button></a>
         </div>
